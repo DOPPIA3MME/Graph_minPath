@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1498057146 source:c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\funzioni.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Funzioni.h"
+
+1497738707 c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\funzioni.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Graph.h"
+	"List.h"
+
+1497258145 c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\graph.h
+	"List.h"
+
+1499164755 c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\list.h
+
+1499429144 source:c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	"Graph.h"
+
+1499429302 source:c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\list.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"List.h"
+
+1498056874 source:c:\users\maurizio\desktop\lasd\progetti\progetto3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Librerie/Funzioni.h"
+	"Librerie/Graph.h"
+	"Librerie/List.h"
+
+1497863462 source:c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\inputreader.c
+	<stdio.h>
+	<stdlib.h>
+	"inputReader.h"
+
+1497863462 c:\users\maurizio\desktop\lasd\progetti\progetto3\librerie\inputreader.h
+
+1498057146 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\funzioni.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Funzioni.h"
+
+1497738707 c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\funzioni.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Graph.h"
+	"List.h"
+
+1497258145 c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\graph.h
+	"List.h"
+
+1499164755 c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\list.h
+
+1499429144 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	"Graph.h"
+
+1497863462 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\inputreader.c
+	<stdio.h>
+	<stdlib.h>
+	"inputReader.h"
+
+1497863462 c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\inputreader.h
+
+1499429302 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\librerie\list.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"List.h"
+
+1498056874 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Librerie/Funzioni.h"
+	"Librerie/Graph.h"
+	"Librerie/List.h"
+
